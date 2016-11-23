@@ -1,0 +1,5 @@
+@mixin borderthick($thickness) {
+    border-width: $thickness;
+}
+
+img { @include borderthick(10px) };
