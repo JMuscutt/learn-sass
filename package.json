@@ -1,0 +1,23 @@
+{
+  "name": "learn-sass",
+  "version": "1.0.0",
+  "description": "Learning SASS for class",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^3.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMuscutt/learn-sass.git"
+  },
+  "author": "Jarred Muscutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMuscutt/learn-sass/issues"
+  },
+  "homepage": "https://github.com/JMuscutt/learn-sass#readme"
+}
